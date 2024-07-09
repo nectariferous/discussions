@@ -4,7 +4,7 @@
 
 </div>
 
-## 👋 Welcome to Nectariferous Discussions!
+## 👋 Welcome to Discussions!
 
 <div align="center">
 
