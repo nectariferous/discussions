@@ -14,7 +14,7 @@
 
 We’ve created this space to connect with other members of our blockchain and cybersecurity community. Whether you’re looking to discuss latest technologies, ask questions about projects, or share your own experiences, you’re in the right place!
 
-### 🌟 What to Do Here
+### 🌟 What to Do ?
 - **Ask Questions**: Curious about blockchain or cybersecurity? Ask away!
 - **Share Ideas**: Have insights or feedback on projects? We’d love to hear them!
 - **Engage**: Connect with others and participate in ongoing discussions.
